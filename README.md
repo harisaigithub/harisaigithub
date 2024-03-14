@@ -1,12 +1,28 @@
 <h1 align="center">Hi 👋, I'm Hari Sai</h1>
 <div align ="center"> <img src="https://github.com/harisaigithub/PROJECTS__/blob/main/banner.jpeg"> </div>
-<h3 align="center">🚀 Passionate Innovator | Transforming Ideas into Impact 🌟 Are you ready to embark on a journey of innovation and achievement? Welcome to my world! 🔥 About Me 🔥 I'm not your typical professional; I'm a catalyst for change, a creator of opportunities, and an unapologetic dreamer. My mission is to turn the ordinary into extraordinary, and I'm on a relentless pursuit of excellence, with 16x Microsoft learn Bages , 4x Trophies | 18x Google Cloud Badges | AWS certified - Foundations, Cloud Architect, Web Application Builder and many more 💡 What I Bring to the Table 💡 🌐 Visionary Thinking: I have a knack for seeing the bigger picture and envisioning innovative solutions that drive results. 🛠️ Problem Solver: Challenges are my playground. I thrive on turning complex problems into elegant solutions. 🌱 Continuous Learner: Learning is a lifelong journey. I'm committed to staying at the forefront of industry trends and emerging technologies. 👥 My Impact 👥 Throughout my career, I've had the privilege of collaborating with exceptional teams, breaking through barriers, and making a tangible difference. From spearheading groundbreaking projects to mentoring future leaders, my goal is to leave a lasting legacy of positive change. 🚀 What's Next? 🚀 Let's connect and explore how our paths can align. Whether you're looking to collaborate on exciting ventures, seeking inspiration, or just curious to chat about the latest innovations, I'm here to make meaningful connections. 🌟 Let's Ignite Possibilities Together! 🌟 Feel free to reach out, and let's start a conversation that could change the trajectory of our careers and the industries we touch. 🚀🌍 #Innovation #Leadership #Impact #career #grow #creator #devops</h3>
-<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://github.com/harisaigithub/PROJECTS__/blob/main/gif3.gif)">
+<ul align="left">🚀 Passionate Innovator | Transforming Ideas into Impact 🌟 Are you ready to embark on a journey of innovation and achievement? Welcome to my world! 
+  <br></br>
+<ul>🔥 About Me 🔥 </ul>
+<li>I'm not your typical professional; I'm a catalyst for change, a creator of opportunities, and an unapologetic dreamer.</li>
+<li>My mission is to turn the ordinary into extraordinary, and I'm on a relentless pursuit of excellence, with 16x Microsoft learn Bages , 4x Trophies | 18x Google Cloud Badges | AWS certified - Foundations, Cloud Architect, Web Application Builder and many more</li>
+  <br></br>
+<ul>💡 What I Bring to the Table 💡 🌐</ul>
+<li>Visionary Thinking: I have a knack for seeing the bigger picture and envisioning innovative solutions that drive results. </li> 
+<li>🛠️ Problem Solver: Challenges are my playground. I thrive on turning complex problems into elegant solutions.</li>
+<li>🌱 Continuous Learner: Learning is a lifelong journey. I'm committed to staying at the forefront of industry trends and emerging technologies.</li>
+<li>👥 My Impact 👥 Throughout my career, I've had the privilege of collaborating with exceptional teams, breaking through barriers, and making a tangible difference.</li>
+<li>From spearheading groundbreaking projects to mentoring future leaders, my goal is to leave a lasting legacy of positive change.</li>
+  <br></br>
+<ul> 🚀 What's Next? 🚀</ul>
+<li>Let's connect and explore how our paths can align. Whether you're looking to collaborate on exciting ventures, seeking inspiration, or just curious to chat about the latest innovations, I'm here to make meaningful connections.</li>
+<li>🌟 Let's Ignite Possibilities Together! 🌟 Feel free to reach out, and let's start a conversation that could change the trajectory of our careers and the industries we touch. 🚀🌍</li>
+#Innovation #Leadership #Impact #career #grow #creator #devops</ul>
+
+<img align="right" alt="Coding" width="400" src="https://github.com/harisaigithub/PROJECTS__/blob/main/gif3.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harisaigithub&label=Profile%20views&color=0e75b6&style=flat" alt="harisaigithub" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harisaigithub" alt="harisaigithub" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/p_harisai_9" target="blank"><img src="https://img.shields.io/twitter/follow/p_harisai_9?logo=twitter&style=for-the-badge" alt="p_harisai_9" /></a> </p>
 
 - 🔭 I’m currently working on [Dynamic Website for Travel Agencies|MERN Stack](posting soon!)
 
@@ -55,5 +71,5 @@
 
 ### ✅ MY GitHub Contributions
 <p align="center">
-  <img src="[https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg](https://github.com/harisaigithub/PROJECTS__/blob/main/github-contribution-grid-snake.svg)https://github.com/harisaigithub/PROJECTS__/blob/main/github-contribution-grid-snake.svg" alt="Snake Animation">
+  <img src="https://github.com/harisaigithub/PROJECTS__/blob/main/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p>
