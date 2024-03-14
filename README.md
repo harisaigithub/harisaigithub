@@ -33,7 +33,7 @@
 
 - 🤝 I’m looking for help with [NexuSmart | FSD](posting soon!)
 
-- 👨‍💻 All of my projects are available at [click Here 👉](https://github.com/harisaigithub)
+- 👨‍💻 All of my projects are available at [click Here 👉 https://github.com/harisaigithub]
 
 - 👨‍💻 All of my projects are available at [https://parasa-harisai-portfolio.netlify.app/](https://parasa-harisai-portfolio.netlify.app/)
 
