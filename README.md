@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hari Sai</h1>
 <div align ="center"> <img src="https://github.com/harisaigithub/PROJECTS__/blob/main/banner.jpeg"> </div>
+<div>
+<img align="right" alt="Coding" width="400" src="https://github.com/harisaigithub/PROJECTS__/blob/main/gif3.gif">
+  
 <ul align="left">🚀 Passionate Innovator | Transforming Ideas into Impact 🌟 Are you ready to embark on a journey of innovation and achievement? Welcome to my world! 
   <br></br>
 <ul>🔥 About Me 🔥 </ul>
@@ -16,9 +19,9 @@
 <ul> 🚀 What's Next? 🚀</ul>
 <li>Let's connect and explore how our paths can align. Whether you're looking to collaborate on exciting ventures, seeking inspiration, or just curious to chat about the latest innovations, I'm here to make meaningful connections.</li>
 <li>🌟 Let's Ignite Possibilities Together! 🌟 Feel free to reach out, and let's start a conversation that could change the trajectory of our careers and the industries we touch. 🚀🌍</li>
-#Innovation #Leadership #Impact #career #grow #creator #devops</ul>
-
-<img align="right" alt="Coding" width="400" src="https://github.com/harisaigithub/PROJECTS__/blob/main/gif3.gif">
+#Innovation #Leadership #Impact #career #grow #creator #devops
+</ul>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harisaigithub&label=Profile%20views&color=0e75b6&style=flat" alt="harisaigithub" /> </p>
 
