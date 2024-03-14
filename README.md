@@ -27,11 +27,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harisaigithub" alt="harisaigithub" /></a> </p>
 
-- 🔭 I’m currently working on [Dynamic Website for Travel Agencies|MERN Stack](posting soon!)
+- 🔭 I’m currently working on [Dynamic Website for Travel Agencies| MERN Stack  (posting soon!)]
 
 - 🌱 I’m currently learning **PostgreSql,PHP,GO | DSA**
 
-- 🤝 I’m looking for help with [NexuSmart | FSD](posting soon!)
+- 🤝 I’m looking for help with [NexuSmart | FSD (posting soon!)]
 
 - 👨‍💻 All of my projects are available at [click Here 👉 https://github.com/harisaigithub]
 
