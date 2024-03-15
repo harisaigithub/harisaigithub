@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hari Sai</h1>
+<h1 align="center">Hi 👋, I'm Hari Sai ! :)</h1>
 <div align ="center"> <img src="https://github.com/harisaigithub/PROJECTS__/blob/main/banner.jpeg"> </div>
 <div>
 <img align="right" alt="Coding" width="400" src="https://github.com/harisaigithub/PROJECTS__/blob/main/gif3.gif">
