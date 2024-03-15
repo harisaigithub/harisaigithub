@@ -73,4 +73,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=harisaigithub&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### ✅ MY GitHub Contributions!
-[Snake animation](https://github.com/{{harisaigithub}}/{{harisaigithub}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/harisaigithub/harisaigithub/blob/output/github-contribution-grid-snake.svg)
